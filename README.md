@@ -4,4 +4,4 @@
 
 ##### Then, it recursively calls mergeTrees for the left and right subtrees of both trees and sets the left and right children of the current node to the merged results. The function continues until all nodes are processed and returns the root of the merged binary tree. The time complexity is O(n), where n is the total number of nodes in the merged tree, as each node is visited once. The space complexity is O(h), where h is the height of the merged tree, due to recursion.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Merge-2-Binary-Tree/).
